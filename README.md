@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|ALVIN ALFANDY|312310473|TI.22.A.5|Basis Data|
+|ALVIN ALFANDY|312310473|TI.23.A.5|Basis Data|
 
 # Studi Kasus: ERD Karyawan
 
